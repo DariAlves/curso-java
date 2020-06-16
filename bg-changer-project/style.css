@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    transition: 0.8s;
+}
+
+#btn-change {
+    text-transform: uppercase;
+    padding: 15px 50px;
+    font-size: 1em;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.text {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
